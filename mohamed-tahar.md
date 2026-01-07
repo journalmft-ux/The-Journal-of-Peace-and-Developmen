@@ -46,3 +46,19 @@ title: Mohamed Farah Tahar | Editor-in-Chief
 
   </div>
 </div>
+<div style="flex: 2; min-width: 300px;">
+  <h3 style="color: #064e3b; border-bottom: 2px solid #fbbf24; padding-bottom: 10px;">Biography</h3>
+  <p>...</p>
+
+  <h3 style="color: #064e3b; border-bottom: 2px solid #fbbf24; padding-bottom: 10px; margin-top: 30px;">Key Research</h3>
+  <div style="background: #f0fdf4; padding: 25px; border-radius: 10px; border-left: 5px solid #159957;">
+    <h4 style="margin: 0; color: #065f46;">"The Linkage Between Government Institutions and Traditional Leadership"</h4>
+    <p>This study explores how the traditional elders system...</p>
+
+    <div style="margin-top: 20px;">
+      <a href="mohamed-tahar-research.pdf" target="_blank" style="display: inline-block; background: #064e3b; color: white; padding: 12px 25px; text-decoration: none; border-radius: 8px; font-weight: bold;">
+        📄 Download Full Research (PDF)
+      </a>
+    </div>
+  </div>
+</div>
