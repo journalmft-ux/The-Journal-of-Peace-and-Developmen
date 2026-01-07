@@ -13,7 +13,7 @@ The **Journal of Peace and Development** is a dedicated platform exploring the c
 * **Ethical Leadership:** The role of leadership in rebuilding societies.
 
 ## 📖 Latest Publications
-*Currently preparing our first issue. Stay tuned!*
+* **[Issue 01: The Nexus of Governance and Peace](./Editorial-Jan-2026.md)** - *Published Jan 2026*
 
 ---
 *Created and maintained by @The Journal of Peace and Development
