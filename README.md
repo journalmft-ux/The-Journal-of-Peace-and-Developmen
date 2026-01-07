@@ -13,7 +13,8 @@ The **Journal of Peace and Development** is a dedicated platform exploring the c
 * **Ethical Leadership:** The role of leadership in rebuilding societies.
 
 ## 📖 Latest Publications
-* **[Issue 01: The Nexus of Governance and Peace](./Editorial-Jan-2026.md)** - *Published Jan 2026*
+* **[Issue 01: The Nexus of Governance and Peace](./Editorial-Jan-2026.md)** - *Editorial (Jan 2026)*
+* **[Issue 02: Decentralization & Inclusive Governance](./Issue-02-Decentralization.md)** - *Author: Mohamed Farah Tahar*
 
 ---
 *Created and maintained by @The Journal of Peace and Development
