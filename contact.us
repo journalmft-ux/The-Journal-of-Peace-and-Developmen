@@ -1,15 +1,20 @@
 ---
-layout: page
-title: Nala soo Xiriir
+layout: default
+title: Contact Us | JPD
 ---
 
-Maqaallada, cilmi-baarista, iyo wixii faallo ah ee ku saabsan Joornaalka, fadlan nagala soo xiriir xafiiska tifaftirka.
+<div style="background: linear-gradient(135deg, #064e3b 0%, #159957 100%); padding: 30px; border-radius: 0 0 20px 20px; text-align: center; color: white;">
+  <h1 style="margin: 0; font-size: 2.2em;">Get In Touch</h1>
+  <p style="opacity: 0.9;">We are here to answer your questions</p>
+</div>
 
-### Faahfaahinta Xiriirka:
-* **Email:** [journalmft@gmail.com](mailto:journalmft@gmail.com)
-* **Website:** [The Journal of Peace and Development](https://journalmft-ux.github.io/The-Journal-of-Peace-and-Developmen/)
-
-### Soo gudbinta Maqaallada:
-Haddii aad rabto in maqaal laguugu daabaco Joornaalka, fadlan maqaalkaaga oo dhammaystiran ugu soo dir email-ka kor ku xusan. 
-
-**Xafiiska Tifaftirka ayaa dib kuugu soo jawaabi doona marka la qiimeeyo maqaalkaaga.**
+<div style="padding: 40px; text-align: center;">
+  <div style="max-width: 600px; margin: 0 auto; background: #fff; padding: 30px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
+    <h2 style="color: #064e3b;">Contact Information</h2>
+    <p style="font-size: 1.1em; margin: 20px 0;">📍 <strong>Office:</strong> Hargeisa, Somaliland</p>
+    <p style="font-size: 1.1em; margin: 20px 0;">📧 <strong>Email:</strong> <a href="mailto:journalmft@gmail.com" style="color: #159957; font-weight: bold;">journalmft@gmail.com</a></p>
+    <p style="font-size: 1.1em; margin: 20px 0;">📞 <strong>Phone:</strong> +252 637902057</p>
+    <hr>
+    <p style="color: #888;">Follow us for latest updates and research calls.</p>
+  </div>
+</div>
