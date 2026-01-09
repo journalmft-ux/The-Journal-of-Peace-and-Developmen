@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Impact of Tribalism on Intellectuals | JPD
-citation_title: "The Impact of Tribalism on the Role of Intellectuals in Somalia: A Public Administration Perspective"
+citation_title: "The Impact of Intellectuals in Somalia: A Public Administration Perspective"
 citation_author: "Mohamed Farah Tahar"
 citation_publication_date: "2026/01"
 citation_journal_title: "The Journal of Peace and Development"
@@ -23,23 +23,29 @@ citation_pdf_url: "https://journalmft-ux.github.io/The-Journal-of-Peace-and-Deve
 
   <div style="background: #f8f9fa; padding: 20px; border-left: 5px solid #064e3b; margin-bottom: 30px;">
     <h3 style="margin-top: 0;">Abstract</h3>
-    <p style="line-height: 1.6; text-align: justify;">[Halkan ku qor qoraalka kooban ee Abstract-kaaga]</p>
+    <p style="line-height: 1.6; text-align: justify;">
+      Maqaalkani wuxuu baadhayaa saamaynta qabyaaladdu ku leedahay doorka aqoonyahanka Soomaaliyeed ee dhinaca maamulka dadweynaha. Waxaa halkan lagu falanqaynayaa caqabadaha hortaagan in aqoonta loo adeegsado dhismaha qaranka.
+    </p>
     <strong>Keywords:</strong> Tribalism; Intellectuals; Public Administration; State-Building; Somalia.
   </div>
 
   <div style="line-height: 1.8; text-align: justify; font-size: 1.1em; color: #333;">
     <h3>1. Introduction</h3>
-    <p>[Halkan ku qor hordhaca maqaalkaaga]</p>
+    <p>
+      Qabyaaladdu waxay saldhig u tahay hab-dhismeedka bulshada Soomaaliyeed, balse marka ay timaaddo maamulka dawladnimada, waxay inta badan caqabad ku noqotaa doorka aqoonyahanka...
+    </p>
 
     <h3>2. Literature Review</h3>
-    <p>[Halkan ku qor qaybta labaad ee maqaalkaaga]</p>
+    <p>
+      Culimo badan oo ku xeeldheer arrimaha bulshada Soomaalida ayaa tilmaamay in aqoonyahanku uu inta badan ku dhex lumo rabitaanka kooxdiisa ama beeshiisa...
+    </p>
   </div>
 
   <hr style="margin: 40px 0;">
   <h3>References</h3>
   <ul style="font-size: 0.9em; line-height: 1.6;">
-    <li>Ahmed, M. Y. (2022). Impact of clanism on public administration...</li>
-    <li>Lewis, I. M. (2002). A modern history of the Somali...</li>
+    <li>Ahmed, M. Y. (2022). Impact of clanism on public administration in the Horn of Africa.</li>
+    <li>Lewis, I. M. (2002). A modern history of the Somali.</li>
   </ul>
 
 </div>
