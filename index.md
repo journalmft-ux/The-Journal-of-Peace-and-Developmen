@@ -45,11 +45,6 @@ title: Home | JPD Journal
 <div class="main-container">
     <div class="content-area">
         
-        <section id="about" class="section-card">
-            <h2 class="section-title">About the Journal</h2>
-            <p>The Journal of Peace and Development (JPD) is a multidisciplinary, peer-reviewed journal dedicated to publishing high-quality research on governance, peace-building, and socio-economic development in Somaliland and the wider Horn of Africa.</p>
-        </section>
-
         <section id="articles" class="section-card">
             <h2 class="section-title">Current Issue: Vol 1, No 1 (2026)</h2>
             <div class="article-card">
@@ -66,13 +61,11 @@ title: Home | JPD Journal
 
         <section id="editorial" class="section-card">
             <h2 class="section-title">Editorial Board</h2>
-            
             <div style="margin-bottom: 30px; padding: 20px; background: #f0f4f8; border-radius: 8px; border-left: 5px solid #003366;">
                 <p class="editor-name" style="font-size: 1.5em;">Mohamed Farah Yusuf</p>
                 <p class="editor-role">Editor-in-Chief</p>
                 <p class="editor-specialty">Expert in Political Administration and Good Governance</p>
             </div>
-
             <div class="editor-grid">
                 <div class="editor-item">
                     <p class="editor-name">Ayanle Hassan Shiil</p>
@@ -86,29 +79,5 @@ title: Home | JPD Journal
                 </div>
             </div>
         </section>
-
-        <section id="submissions" class="section-card">
-            <h2 class="section-title">Submissions</h2>
-            <p>We welcome manuscripts following the <strong>Double-Blind Peer Review</strong> process. Articles must follow APA 7th edition guidelines.</p>
-            <p>📧 Email: <strong>journalmft@gmail.com</strong></p>
-        </section>
-
-        <section id="contact" class="section-card">
-            <h2 class="section-title">Contact Information</h2>
-            <p>📍 Location: Hargeisa, Somaliland</p>
-            <p>📞 Phone: +252 63 7902057</p>
-        </section>
     </div>
-
-    <aside class="sidebar">
-        <a href="#submissions" class="submit-btn">SUBMIT YOUR PAPER</a>
-        <div class="section-card" style="padding: 20px;">
-            <h4 style="margin-top:0; color: #003366;">Journal Ethics</h4>
-            <p style="font-size: 0.85em; color: #666;">JPD adheres to the highest standards of publication ethics and academic integrity.</p>
-        </div>
-    </aside>
 </div>
-
-<footer style="background: #002244; color: white; padding: 40px 20px; text-align: center; border-top: 5px solid #ffcc00;">
-    <p>© 2026 The Journal of Peace and Development (JPD) | Editor-in-Chief: Mohamed Farah Yusuf</p>
-</footer>
