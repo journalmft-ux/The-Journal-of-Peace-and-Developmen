@@ -32,11 +32,12 @@ title: Submission | JPD
   
   <div style="background: #fff; padding: 25px; border-radius: 12px; border: 1px solid #eee; line-height: 1.8;">
     <p><strong>Originality:</strong> All submitted manuscripts must be original work that has not been published elsewhere or is currently under consideration by another journal.</p>
-    <p><strong>Open Access:</strong> JPD is an open-access journal. We believe in the free dissemination of knowledge to promote global progress and research visibility.</p>
+    <p><strong>Copyright:</strong> Upon acceptance, authors retain the copyright of their work but grant **JPD** the right of first publication under the Creative Commons Attribution License.</p>
+    <p><strong>Open Access:</strong> JPD is an open-access journal. We believe in the free dissemination of knowledge to promote global progress.</p>
     <p><strong>Review Timeline:</strong> 
       <ul style="margin-top: 5px;">
-        <li>Initial editorial response: Within <strong>48 hours</strong>.</li>
-        <li>Final peer-review decision: Within <strong>30 days</strong>.</li>
+        <li>Initial editorial response: Within <strong>7 Days</strong>.</li>
+        <li>Final peer-review decision: Within <strong>30-45 Days</strong>.</li>
       </ul>
     </p>
   </div>
@@ -44,3 +45,8 @@ title: Submission | JPD
 </div>
 
 <br><br>
+
+<footer style="text-align: center; padding: 20px; border-top: 1px solid #eee; color: #777; font-size: 0.9em;">
+  <p>© 2026 The Journal of Peace and Development (JPD). All Rights Reserved.</p>
+  <p>Hargeisa, Somaliland | Promoting Research & Excellence</p>
+</footer>
