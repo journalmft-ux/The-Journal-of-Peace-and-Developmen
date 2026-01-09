@@ -1,52 +1,55 @@
 ---
 layout: default
-title: Submission | JPD
+title: Submit Manuscript | JPD
 ---
 
-<div style="background: linear-gradient(135deg, #064e3b 0%, #159957 100%); padding: 40px 20px; text-align: center; color: white; border-radius: 15px; margin-bottom: 30px;">
-  <h1 style="margin: 0; font-size: 2.5em;">Manuscript Submission</h1>
-  <p style="opacity: 0.9; font-size: 1.1em;">Join our community of scholars and researchers</p>
+<div style="background: #f8f9fa; border-bottom: 4px solid #064e3b; padding: 20px; text-align: center; font-family: 'Times New Roman', serif;">
+  <h1 style="color: #064e3b; margin: 0; font-size: 2.5em; font-weight: bold;">Author Guidelines</h1>
+  <p style="margin: 5px 0; color: #555;">Submission Instructions for the Journal of Peace and Development</p>
 </div>
 
-<div style="max-width: 900px; margin: 0 auto; font-family: 'Segoe UI', sans-serif; color: #333;">
+<div style="margin: 30px auto; max-width: 800px; font-family: Arial, sans-serif; line-height: 1.7;">
 
-  <h2 style="color: #064e3b; border-bottom: 2px solid #fbbf24; padding-bottom: 10px;">📤 How to Submit</h2>
+  <h2 style="color: #064e3b; border-bottom: 2px solid #eee;">Submission Requirements</h2>
+  <p>We invite original research articles, policy reviews, and case studies. All submissions must follow these rules:</p>
   
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 30px;">
-    <div style="background: #fff; padding: 20px; border-radius: 10px; border: 1px solid #eee; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
-      <h4 style="margin-top: 0; color: #159957;">Step 1: Preparation</h4>
-      <p style="font-size: 0.95em;">Ensure your manuscript is in <strong>Microsoft Word (.docx)</strong> format and follows our <a href="AUTHOR-GUIDELINES.html">Author Guidelines</a>.</p>
-    </div>
-    <div style="background: #fff; padding: 20px; border-radius: 10px; border: 1px solid #eee; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
-      <h4 style="margin-top: 0; color: #159957;">Step 2: Submission</h4>
-      <p style="font-size: 0.95em;">Send your manuscript and a separate title page via email to the address provided below.</p>
-    </div>
-  </div>
+  <ul style="padding-left: 20px;">
+    <li><strong>Originality:</strong> The work must not have been published elsewhere.</li>
+    <li><strong>Language:</strong> Submissions must be in clear, academic English.</li>
+    <li><strong>Format:</strong> Microsoft Word (.doc or .docx) format.</li>
+    <li><strong>Style:</strong> Use <strong>APA 7th Edition</strong> for citations and references.</li>
+  </ul>
 
-  <div style="text-align: center; padding: 30px; background: #f9f9f9; border: 2px dashed #064e3b; border-radius: 15px; margin-bottom: 40px;">
-    <p style="margin-bottom: 15px; font-weight: bold;">Ready to submit your research?</p>
-    <a href="mailto:your-email@example.com" style="background: #064e3b; color: white; padding: 15px 30px; text-decoration: none; border-radius: 8px; font-weight: bold; display: inline-block; transition: 0.3s;">📧 Click Here to Submit via Email</a>
-  </div>
+  <h2 style="color: #064e3b; border-bottom: 2px solid #eee; margin-top: 30px;">Manuscript Structure</h2>
+  <p>To ensure a smooth peer-review process, please organize your paper as follows:</p>
+  <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+    <tr style="background: #f2f2f2;">
+      <th style="border: 1px solid #ddd; padding: 8px;">Section</th>
+      <th style="border: 1px solid #ddd; padding: 8px;">Details</th>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Title Page</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Full title, Author name, and Affiliation.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Abstract</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Maximum 250 words and 5 keywords.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Main Text</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Introduction, Methodology, Results, and Discussion.</td>
+    </tr>
+  </table>
 
-  <h2 style="color: #064e3b; border-bottom: 2px solid #fbbf24; padding-bottom: 10px;">⚖️ Publication Policies</h2>
-  
-  <div style="background: #fff; padding: 25px; border-radius: 12px; border: 1px solid #eee; line-height: 1.8;">
-    <p><strong>Originality:</strong> All submitted manuscripts must be original work that has not been published elsewhere or is currently under consideration by another journal.</p>
-    <p><strong>Copyright:</strong> Upon acceptance, authors retain the copyright of their work but grant **JPD** the right of first publication under the Creative Commons Attribution License.</p>
-    <p><strong>Open Access:</strong> JPD is an open-access journal. We believe in the free dissemination of knowledge to promote global progress.</p>
-    <p><strong>Review Timeline:</strong> 
-      <ul style="margin-top: 5px;">
-        <li>Initial editorial response: Within <strong>7 Days</strong>.</li>
-        <li>Final peer-review decision: Within <strong>30-45 Days</strong>.</li>
-      </ul>
-    </p>
+  <div style="margin-top: 40px; background: #064e3b; color: white; padding: 30px; text-align: center; border-radius: 8px;">
+    <h2 style="margin-top: 0;">Ready to Submit?</h2>
+    <p>Please send your manuscript as an email attachment to our editorial office:</p>
+    <p style="font-size: 1.2em; font-weight: bold;">📧 [Gali Email-kaaga halkan]</p>
+    <p style="font-size: 0.9em;">(Example: editor@jpd-journal.org)</p>
   </div>
 
 </div>
 
-<br><br>
-
-<footer style="text-align: center; padding: 20px; border-top: 1px solid #eee; color: #777; font-size: 0.9em;">
-  <p>© 2026 The Journal of Peace and Development (JPD). All Rights Reserved.</p>
-  <p>Hargeisa, Somaliland | Promoting Research & Excellence</p>
+<footer style="margin-top: 50px; padding: 20px; border-top: 1px solid #ddd; text-align: center; font-size: 0.85em; color: #777;">
+  © 2026 The Journal of Peace and Development. All rights reserved.
 </footer>
