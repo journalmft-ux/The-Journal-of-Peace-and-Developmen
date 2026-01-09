@@ -25,7 +25,6 @@ title: Home | JPD
       <li><a href="about.html" style="text-decoration: none; color: #333;">• Editorial Policies</a></li>
       <li><a href="submission.html" style="text-decoration: none; color: #333;">• Submitting Manuscript</a></li>
       <li><a href="contact.us" style="text-decoration: none; color: #333;">• Contact Us</a></li>
-      <li><a href="#" style="text-decoration: none; color: #333;">• Open Access Policy</a></li>
     </ul>
   </div>
 
@@ -33,7 +32,17 @@ title: Home | JPD
     <div style="background: #064e3b; color: white; padding: 10px; font-weight: bold; border-radius: 5px 5px 0 0;">
       Current Issue: Vol 1, No. 1 (2026)
     </div>
-    <div style="border: 1px solid #ddd; padding: 20px; border-top: none;">
+
+    <div style="border: 1px solid #ddd; padding: 20px; border-top: none; background: #fff; margin-bottom: 20px;">
+      <h3 style="margin-top: 0; color: #064e3b;">The Impact of Tribalism on the Role of Intellectuals in Somalia: A Public Administration Perspective</h3>
+      <p style="font-size: 0.85em; color: #777;">January 2026 | Article Number: JPD2026-002</p>
+      <p style="font-weight: bold; color: #333;">Mohamed Farah Tahar</p>
+      <p style="font-size: 0.95em; line-height: 1.6;">This article examines how entrenched clan-based politics shape the role, autonomy, and institutional effectiveness of intellectuals in Somalia, introducing the concept of Global Tribalism...</p>
+      <a href="impact-of-tribalism.html" style="color: #159957; font-weight: bold; text-decoration: none;">[Abstract]</a> | 
+      <a href="impact-of-tribalism-somalia.pdf" style="color: #d9534f; font-weight: bold; text-decoration: none;">[Full Text - PDF]</a>
+    </div>
+
+    <div style="border: 1px solid #ddd; padding: 20px; background: #fff;">
       <h3 style="margin-top: 0; color: #064e3b;">The Linkage Between Government Institutions and Traditional Leadership in Maroodi Jeex Region</h3>
       <p style="font-size: 0.85em; color: #777;">January 2026 | Article Number: JPD2026-001</p>
       <p style="font-weight: bold; color: #333;">Mohamed Farah Tahar</p>
@@ -54,14 +63,9 @@ title: Home | JPD
 
   <div style="flex: 1; min-width: 180px;">
     <a href="submission.html" style="display: block; background: #d9534f; color: white; text-align: center; padding: 15px; text-decoration: none; font-weight: bold; border-radius: 5px; margin-bottom: 15px;">SUBMIT MANUSCRIPT</a>
-    
     <div style="border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
       <h5 style="margin: 0 0 10px 0; border-bottom: 1px solid #ddd;">Reviewer's Area</h5>
       <p style="font-size: 0.8em; color: #666;">Interested in reviewing for JPD? <a href="contact.us">Join our team</a></p>
-    </div>
-
-    <div style="margin-top: 20px; text-align: center;">
-      <img src="https://via.placeholder.com/150x200?text=Journal+Cover" alt="Journal Cover" style="width: 100%; border: 1px solid #ccc;">
     </div>
   </div>
 
