@@ -1,5 +1,16 @@
 title: The Journal of Peace and Development
-description: Madal cilmiyeed madax-bannaan oo diiradda saarta nabadda, horumarka dhaqaalaha, iyo maamul wanaagga Soomaaliya iyo Geeska Afrika.
+description: Fostering Stability through Governance and Progress
 theme: jekyll-theme-cayman
-show_downloads: false
-google_analytics:
+nav:
+  - text: Home
+    href: index.html
+  - text: Editorial Board
+    href: EDITORIAL-BOARD.html
+  - text: Guidelines
+    href: AUTHOR-GUIDELINES.html
+  - text: Ethics
+    href: ETHICS-STATEMENT.html
+  - text: Archives
+    href: ARCHIVE.html
+  - text: Submissions
+    href: submission.html
