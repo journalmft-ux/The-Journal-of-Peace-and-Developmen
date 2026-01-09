@@ -29,7 +29,6 @@ title: Home | JPD Journal
     .article-card { border-left: 4px solid #0055a4; padding: 15px 20px; background: #f9fbff; margin-bottom: 15px; border-radius: 0 4px 4px 0; }
     .article-link { color: #003366; text-decoration: none; font-size: 1.2em; font-weight: bold; }
     .pdf-btn { display: inline-block; background: #c00; color: white; padding: 8px 18px; font-size: 0.85em; text-decoration: none; border-radius: 4px; margin-top: 10px; font-weight: bold; }
-    .pdf-btn:hover { background: #a00; }
 
     .sidebar-box { background: white; border-top: 4px solid #003366; padding: 20px; margin-bottom: 25px; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
     .submit-btn { display: block; background: #ffcc00; color: #003366; text-align: center; padding: 15px; text-decoration: none; font-weight: bold; border-radius: 5px; margin-bottom: 20px; }
@@ -38,7 +37,7 @@ title: Home | JPD Journal
 <header class="brand-header">
     <h1 class="main-logo">The Journal of Peace and Development</h1>
     <div class="sub-logo">JPD • Somaliland</div>
-    <div style="margin-top:15px; font-size: 0.85em; opacity: 0.9;">ISSN: Pending | Frequency: Bi-annual | Est. 2026</div>
+    <div style="margin-top:15px; font-size: 0.85em; opacity: 0.9;">ISSN: Pending | Established: 2026</div>
 </header>
 
 <nav class="nav-bar">
@@ -53,7 +52,7 @@ title: Home | JPD Journal
         
         <section id="about" class="section-card">
             <h2 class="section-title">About the Journal</h2>
-            <p>The Journal of Peace and Development (JPD) is a multidisciplinary, peer-reviewed journal based in Hargeisa, Somaliland. We are dedicated to publishing high-quality research that explores the intersection of peace-building, governance, and socio-economic development.</p>
+            <p>The Journal of Peace and Development (JPD) is a multidisciplinary, peer-reviewed journal based in Hargeisa, Somaliland. We are dedicated to publishing high-quality research on governance, peace-building, and economic development.</p>
         </section>
 
         <section id="articles" class="section-card">
@@ -61,21 +60,25 @@ title: Home | JPD Journal
             
             <div class="article-card">
                 <a href="#" class="article-link">The Impact of Tribalism on the Role of Intellectuals in Somalia</a>
-                <p style="margin: 5px 0;"><strong>Mohamed Farah Tahar</strong></p>
+                <p style="margin: 5px 0;"><strong>Mohamed Farah Yusuf</strong></p>
                 <a href="impact-of-tribalism-somalia.pdf" class="pdf-btn">Download PDF</a>
             </div>
 
             <div class="article-card">
                 <a href="#" class="article-link">Government Institutions and Traditional Leadership in Maroodi Jeex Region</a>
-                <p style="margin: 5px 0;"><strong>Mohamed Farah Tahar</strong></p>
+                <p style="margin: 5px 0;"><strong>Mohamed Farah Yusuf</strong></p>
                 <a href="government-traditional.pdf.pdf" class="pdf-btn">Download PDF</a>
             </div>
         </section>
 
         <section id="editorial" class="section-card">
             <h2 class="section-title">Editorial Team</h2>
-            <p><strong>Editor-in-Chief:</strong> Mohamed Farah Tahar</p>
-            <p><strong>Expertise:</strong> Public Administration, Governance & Peace Studies</p>
+            <div style="margin-bottom: 20px;">
+                <h4 style="color: #003366; margin-bottom: 5px;">Editor-in-Chief</h4>
+                <p style="margin: 0; font-size: 1.25em;"><strong>Mohamed Farah Yusuf</strong></p>
+                <p style="margin: 5px 0; font-size: 1em; color: #444;">Expert in Politics, Governance, and Economic Management</p>
+                <p style="margin: 0; font-size: 0.85em; color: #0055a4;">Hargeisa, Somaliland</p>
+            </div>
         </section>
 
         <section id="contact" class="section-card">
@@ -89,18 +92,17 @@ title: Home | JPD Journal
 
     <aside class="sidebar">
         <a href="mailto:journalmft@gmail.com" class="submit-btn">MAKE A SUBMISSION</a>
-        
         <div class="sidebar-box">
-            <h3 style="color:#003366; font-size: 1em; margin-top:0;">Focus & Scope</h3>
+            <h3 style="color:#003366; font-size: 1em; margin-top:0;">Focus Areas</h3>
             <ul style="padding-left:15px; font-size: 0.85em; color: #555;">
                 <li>Conflict Resolution</li>
                 <li>Public Policy</li>
-                <li>Traditional Governance</li>
+                <li>Economic Governance</li>
             </ul>
         </div>
     </aside>
 </div>
 
 <footer style="background: #002244; color: white; padding: 40px 20px; text-align: center;">
-    <p>© 2026 The Journal of Peace and Development (JPD) | Hargeisa, Somaliland</p>
+    <p>© 2026 The Journal of Peace and Development (JPD) | Editor-in-Chief: Mohamed Farah Yusuf</p>
 </footer>
