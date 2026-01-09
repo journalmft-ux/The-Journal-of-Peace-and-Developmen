@@ -4,97 +4,124 @@ title: Home | JPD Journal
 ---
 
 <style>
-    body { background-color: #f8f9fa; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
-    .top-bar { background: #004a99; color: white; padding: 5px 20px; font-size: 0.8em; text-align: right; }
-    .header-area { background: white; padding: 25px; border-bottom: 1px solid #ddd; display: flex; align-items: center; justify-content: space-between; }
-    .journal-title { color: #004a99; font-size: 2.2em; font-weight: bold; margin: 0; }
-    .nav-bar { background: #fff; border-bottom: 1px solid #ddd; padding: 10px 20px; position: sticky; top: 0; z-index: 1000; }
-    .nav-bar a { color: #333; margin-right: 20px; text-decoration: none; font-weight: 500; font-size: 0.9em; }
-    .nav-bar a:hover { color: #004a99; }
-    .main-container { display: flex; max-width: 1200px; margin: 20px auto; gap: 30px; padding: 0 15px; }
-    .content-area { flex: 3; background: white; padding: 25px; border: 1px solid #ddd; }
-    .sidebar { flex: 1; background: #fff; }
-    .sidebar-box { border: 1px solid #ddd; padding: 15px; margin-bottom: 20px; }
-    .sidebar-header { border-bottom: 2px solid #004a99; color: #004a99; font-weight: bold; margin-bottom: 10px; padding-bottom: 5px; }
-    .submit-btn { display: block; background: #c00; color: white; text-align: center; padding: 12px; text-decoration: none; font-weight: bold; border-radius: 4px; margin-bottom: 20px; }
-    .article-card { border-bottom: 1px solid #eee; padding: 15px 0; }
-    .article-card:last-child { border-bottom: none; }
-    .article-link { color: #004a99; text-decoration: none; font-size: 1.1em; font-weight: 600; display: block; }
-    .article-link:hover { text-decoration: underline; }
-    .pdf-btn { display: inline-block; background: #004a99; color: white; padding: 4px 12px; font-size: 0.8em; text-decoration: none; border-radius: 3px; margin-top: 10px; }
-    .announcement-box { background: #fff3cd; border: 1px solid #ffeeba; padding: 10px; margin-bottom: 20px; font-size: 0.9em; }
+    body { background-color: #f0f2f5; font-family: 'Segoe UI', Arial, sans-serif; margin: 0; }
+    
+    /* Header Qurux Badan */
+    .brand-header {
+        background: linear-gradient(135deg, #003366 0%, #0055a4 100%);
+        color: white;
+        padding: 40px 20px;
+        text-align: center;
+        border-bottom: 5px solid #ffcc00; /* Xariijin dahabi ah */
+    }
+    .main-logo {
+        font-family: 'Times New Roman', serif;
+        font-size: 3em;
+        font-weight: bold;
+        margin: 0;
+        letter-spacing: 1px;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    }
+    .sub-logo {
+        font-size: 1.2em;
+        color: #ffcc00;
+        font-weight: 300;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        margin-top: 10px;
+    }
+    .issn-bar {
+        font-size: 0.85em;
+        margin-top: 15px;
+        opacity: 0.9;
+    }
+
+    /* Navigation */
+    .nav-bar { background: #333; padding: 12px; text-align: center; position: sticky; top: 0; z-index: 1000; box-shadow: 0 2px 5px rgba(0,0,0,0.2); }
+    .nav-bar a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; font-size: 0.9em; transition: 0.3s; }
+    .nav-bar a:hover { color: #ffcc00; }
+
+    /* Layout Content */
+    .main-container { display: flex; max-width: 1200px; margin: 30px auto; gap: 25px; padding: 0 15px; }
+    .content-area { flex: 3; background: white; padding: 35px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }
+    .sidebar { flex: 1; }
+    .sidebar-box { background: white; border-top: 4px solid #003366; padding: 20px; margin-bottom: 25px; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
+    .sidebar-header { color: #003366; font-weight: bold; margin-bottom: 15px; border-bottom: 1px solid #eee; padding-bottom: 8px; text-transform: uppercase; }
+
+    /* Articles */
+    .article-card { border-left: 4px solid transparent; padding: 20px; transition: 0.3s; margin-bottom: 10px; border-bottom: 1px solid #f0f0f0; }
+    .article-card:hover { border-left: 4px solid #0055a4; background: #f9fbff; }
+    .article-link { color: #003366; text-decoration: none; font-size: 1.25em; font-weight: bold; display: block; }
+    .pdf-btn { display: inline-block; background: #c00; color: white; padding: 6px 16px; font-size: 0.85em; text-decoration: none; border-radius: 4px; margin-top: 12px; }
+
+    .submit-btn { 
+        display: block; background: #ffcc00; color: #003366; text-align: center; 
+        padding: 18px; text-decoration: none; font-weight: bold; border-radius: 5px; 
+        margin-bottom: 25px; font-size: 1.1em; transition: 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    .submit-btn:hover { background: #e6b800; transform: translateY(-2px); }
 </style>
 
-<div class="header-area">
-    <h1 class="journal-title">The Journal of Peace and Development (JPD)</h1>
-    <div style="text-align: right; font-size: 0.8em; color: #666;">
-        ISSN (E): Pending | ISSN (P): Pending <br>
-        Frequency: Bi-annual
+<header class="brand-header">
+    <h1 class="main-logo">The Journal of Peace and Development</h1>
+    <div class="sub-logo">JPD • Somaliland</div>
+    <div class="issn-bar">
+        ISSN (Online): Pending | ISSN (Print): Pending | Established: 2026
     </div>
-</div>
+</header>
 
-<div class="nav-bar">
+<nav class="nav-bar">
     <a href="index.html">Home</a>
-    <a href="SUBMISSIONS.html">Submission</a>
-    <a href="EDITORS.html">Editorial Team</a>
     <a href="ABOUT.html">About the Journal</a>
-    <a href="ARCHIVES.html">Archives</a>
+    <a href="SUBMISSIONS.html">Submissions</a>
+    <a href="EDITORS.html">Editorial Team</a>
     <a href="CONTACT.html">Contact Us</a>
-</div>
+</nav>
 
 <div class="main-container">
-    <div class="content-area">
-        <div class="announcement-box">
-            <strong>Announcements:</strong> Call for Papers - Volume 1, Issue 1 (2026) is now open!
+    <main class="content-area">
+        <div style="background: #e7f3ff; border-left: 5px solid #0055a4; padding: 15px; margin-bottom: 30px; font-size: 0.95em;">
+            <strong>Bulletin:</strong> Call for Papers for Vol. 1, No. 1 is now officially open for global submissions.
         </div>
 
-        <h3 style="border-bottom: 2px solid #eee; padding-bottom: 10px; color: #333;">Current Issue</h3>
-        <p style="color: #666; font-size: 0.9em;">Vol. 1 No. 01 (2026): Published: 2026-01-09</p>
+        <h2 style="color: #333; margin-bottom: 30px;">Current Issue: Vol 1, No 1 (2026)</h2>
 
-        <div class="article-card">
+        <article class="article-card">
             <a href="impact-of-tribalism-somalia.html" class="article-link">The Impact of Tribalism on the Role of Intellectuals in Somalia: A Public Administration Perspective</a>
-            <p style="margin: 5px 0; font-size: 0.9em;"><strong>Mohamed Farah Tahar</strong></p>
-            <p style="font-size: 0.85em; color: #555;">1-25</p>
-            <a href="impact-of-tribalism-somalia.pdf" class="pdf-btn">PDF</a>
-        </div>
+            <p style="margin: 8px 0; font-weight: 500;">Mohamed Farah Tahar</p>
+            <p style="color: #666; font-size: 0.9em;">This article examines how entrenched clan-based politics shape the role, autonomy, and institutional effectiveness of intellectuals in Somalia...</p>
+            <a href="impact-of-tribalism-somalia.pdf" class="pdf-btn">Download PDF</a>
+        </article>
 
-        <div class="article-card">
+        <article class="article-card">
             <a href="mohamed-tahar.html" class="article-link">The Linkage Between Government Institutions and Traditional Leadership in Maroodi Jeex Region</a>
-            <p style="margin: 5px 0; font-size: 0.9em;"><strong>Mohamed Farah Tahar</strong></p>
-            <p style="font-size: 0.85em; color: #555;">26-50</p>
-            <a href="mohamed-tahar.pdf" class="pdf-btn">PDF</a>
-        </div>
+            <p style="margin: 8px 0; font-weight: 500;">Mohamed Farah Tahar</p>
+            <p style="color: #666; font-size: 0.9em;">This study explores the integration of modern state governance and traditional leadership systems in Somaliland...</p>
+            <a href="mohamed-tahar.pdf" class="pdf-btn">Download PDF</a>
+        </article>
+    </main>
 
-        <div style="margin-top: 30px;">
-            <a href="ARCHIVES.html" style="color: #004a99; font-weight: bold; text-decoration: none;">View All Issues ></a>
-        </div>
-    </div>
-
-    <div class="sidebar">
-        <a href="SUBMISSIONS.html" class="submit-btn">Make a Submission</a>
+    <aside class="sidebar">
+        <a href="SUBMISSIONS.html" class="submit-btn">MAKE A SUBMISSION</a>
         
         <div class="sidebar-box">
-            <div class="sidebar-header">Information</div>
-            <ul style="list-style: none; padding: 0; font-size: 0.9em;">
-                <li><a href="#" style="color: #004a99; text-decoration: none;">For Readers</a></li>
-                <li><a href="#" style="color: #004a99; text-decoration: none;">For Authors</a></li>
-                <li><a href="#" style="color: #004a99; text-decoration: none;">For Librarians</a></li>
-            </ul>
+            <div class="sidebar-header">Editor-in-Chief</div>
+            <p style="margin:0; font-weight: bold; color: #333;">Mohamed Farah Tahar</p>
+            <p style="margin: 5px 0 0; font-size: 0.85em; color: #666;">Hargeisa, Somaliland</p>
         </div>
 
         <div class="sidebar-box">
-            <div class="sidebar-header">Keywords</div>
-            <div style="display: flex; flex-wrap: wrap; gap: 5px; font-size: 0.8em;">
-                <span style="background: #eee; padding: 2px 5px;">Somalia</span>
-                <span style="background: #eee; padding: 2px 5px;">Governance</span>
-                <span style="background: #eee; padding: 2px 5px;">Peace</span>
-                <span style="background: #eee; padding: 2px 5px;">Diplomacy</span>
-            </div>
+            <div class="sidebar-header">Resources</div>
+            <ul style="list-style: none; padding: 0; font-size: 0.9em; line-height: 2.2;">
+                <li>• <a href="ABOUT.html" style="color: #0055a4; text-decoration: none;">Publication Ethics</a></li>
+                <li>• <a href="SUBMISSIONS.html" style="color: #0055a4; text-decoration: none;">Peer Review Process</a></li>
+                <li>• <a href="CONTACT.html" style="color: #0055a4; text-decoration: none;">Contact Editorial Office</a></li>
+            </ul>
         </div>
-    </div>
+    </aside>
 </div>
 
-<div style="text-align: center; padding: 30px; background: #333; color: white; margin-top: 50px; font-size: 0.8em;">
-    <p>The Journal of Peace and Development (JPD) © 2026</p>
-    <p>Developed by Open Journal Systems (OJS) Style for GitHub</p>
-</div>
+<footer style="background: #002244; color: white; padding: 50px 20px; text-align: center; margin-top: 50px;">
+    <p style="font-size: 1.1em; margin-bottom: 10px;">The Journal of Peace and Development (JPD)</p>
+    <p style="font-size: 0.85em; opacity: 0.7;">© 2026 | All Rights Reserved | Hargeisa, Somaliland</p>
+</footer>
