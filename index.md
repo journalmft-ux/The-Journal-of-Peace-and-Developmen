@@ -37,7 +37,7 @@ title: Home | JPD
       <h3 style="margin-top: 0; color: #064e3b;">The Impact of Tribalism on the Role of Intellectuals in Somalia: A Public Administration Perspective</h3>
       <p style="font-size: 0.85em; color: #777;">January 2026 | Article Number: JPD2026-002</p>
       <p style="font-weight: bold; color: #333;">Mohamed Farah Tahar</p>
-      <p style="font-size: 0.95em; line-height: 1.6;">This article examines how entrenched clan-based politics shape the role, autonomy, and institutional effectiveness of intellectuals in Somalia, introducing the concept of Global Tribalism...</p>
+      <p style="font-size: 0.95em; line-height: 1.6;">This article examines how entrenched clan-based politics shape the role, autonomy, and institutional effectiveness of intellectuals in Somalia...</p>
       <a href="impact-of-tribalism.html" style="color: #159957; font-weight: bold; text-decoration: none;">[Abstract]</a> | 
       <a href="impact-of-tribalism-somalia.pdf" style="color: #d9534f; font-weight: bold; text-decoration: none;">[Full Text - PDF]</a>
     </div>
@@ -46,7 +46,7 @@ title: Home | JPD
       <h3 style="margin-top: 0; color: #064e3b;">The Linkage Between Government Institutions and Traditional Leadership in Maroodi Jeex Region</h3>
       <p style="font-size: 0.85em; color: #777;">January 2026 | Article Number: JPD2026-001</p>
       <p style="font-weight: bold; color: #333;">Mohamed Farah Tahar</p>
-      <p style="font-size: 0.95em; line-height: 1.6;">This study explores the integration of modern state governance and traditional leadership systems in Somaliland, highlighting the role of the House of Elders (Guurti) in peacebuilding...</p>
+      <p style="font-size: 0.95em; line-height: 1.6;">This study explores the integration of modern state governance and traditional leadership systems in Somaliland...</p>
       <a href="mohamed-tahar.html" style="color: #159957; font-weight: bold; text-decoration: none;">[Abstract]</a> | 
       <a href="THE-LINKAGE-BETWEEN-GOVERNMENT-INSTITUTIONS-AND-TRADITIONAL3.pdf" style="color: #d9534f; font-weight: bold; text-decoration: none;">[Full Text - PDF]</a>
     </div>
@@ -55,7 +55,7 @@ title: Home | JPD
        <h4 style="margin-top: 0;">Search Articles</h4>
        <form action="https://www.google.com/search" method="get" target="_blank" style="display: flex; gap: 10px;">
          <input type="hidden" name="sitesearch" value="journalmft-ux.github.io/The-Journal-of-Peace-and-Developmen/">
-         <input type="text" name="q" placeholder="Search by Author, Title or Keywords..." style="flex: 1; padding: 8px;">
+         <input type="text" name="q" placeholder="Search articles..." style="flex: 1; padding: 8px;">
          <button type="submit" style="background: #064e3b; color: white; border: none; padding: 8px 15px; cursor: pointer;">Search</button>
        </form>
     </div>
