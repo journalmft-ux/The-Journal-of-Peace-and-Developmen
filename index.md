@@ -20,7 +20,6 @@ title: Home | JPD Journal
     .article-card { border-left: 4px solid #0055a4; padding: 15px 20px; background: #f9fbff; margin-bottom: 15px; border-radius: 0 4px 4px 0; }
     .submit-btn { display: block; background: #c00; color: white; text-align: center; padding: 15px; text-decoration: none; font-weight: bold; border-radius: 5px; margin-bottom: 20px; }
     
-    /* Editorial Board Styles */
     .editor-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 15px; }
     .editor-item { background: #fcfcfc; border: 1px solid #eee; padding: 15px; border-radius: 5px; }
     .editor-name { color: #003366; font-weight: bold; margin: 0; font-size: 1.1em; }
@@ -55,12 +54,12 @@ title: Home | JPD Journal
             <h2 class="section-title">Current Issue: Vol 1, No 1 (2026)</h2>
             <div class="article-card">
                 <h3 style="margin:0; color: #003366;">The Impact of Tribalism on the Role of Intellectuals in Somalia</h3>
-                <p><strong>Author: Mohamed Farah Yusuf</strong></p>
+                <p><strong>Author: Mohamed Farah Tahar</strong></p>
                 <a href="impact-of-tribalism-somalia.pdf" style="display:inline-block; background:#c00; color:white; padding:8px 15px; text-decoration:none; border-radius:4px; font-weight:bold; font-size:0.8em;">Download PDF</a>
             </div>
             <div class="article-card">
                 <h3 style="margin:0; color: #003366;">Government Institutions and Traditional Leadership in Maroodi Jeex Region</h3>
-                <p><strong>Author: Mohamed Farah Yusuf</strong></p>
+                <p><strong>Author: Mohamed Farah Tahar</strong></p>
                 <a href="government-traditional.pdf.pdf" style="display:inline-block; background:#c00; color:white; padding:8px 15px; text-decoration:none; border-radius:4px; font-weight:bold; font-size:0.8em;">Download PDF</a>
             </div>
         </section>
@@ -111,5 +110,5 @@ title: Home | JPD Journal
 </div>
 
 <footer style="background: #002244; color: white; padding: 40px 20px; text-align: center; border-top: 5px solid #ffcc00;">
-    <p>© 2026 The Journal of Peace and Development (JPD)</p>
+    <p>© 2026 The Journal of Peace and Development (JPD) | Editor-in-Chief: Mohamed Farah Yusuf</p>
 </footer>
