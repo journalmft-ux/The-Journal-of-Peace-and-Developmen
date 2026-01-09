@@ -12,7 +12,7 @@ title: Home | JPD
     <a href="index.html" style="color: white; text-decoration: none; padding: 10px 20px; border-radius: 50px; background: rgba(255,255,255,0.15); font-weight: 600; border: 1px solid rgba(255,255,255,0.3); transition: 0.3s;">Home</a>
     <a href="about.html" style="color: white; text-decoration: none; padding: 10px 20px; border-radius: 50px; background: rgba(255,255,255,0.15); font-weight: 600; border: 1px solid rgba(255,255,255,0.3); transition: 0.3s;">About Us</a>
     <a href="articles.html" style="color: white; text-decoration: none; padding: 10px 20px; border-radius: 50px; background: rgba(255,255,255,0.15); font-weight: 600; border: 1px solid rgba(255,255,255,0.3); transition: 0.3s;">Archives</a>
-    <a href="board.html" style="color: white; text-decoration: none; padding: 10px 20px; border-radius: 50px; background: rgba(255,255,255,0.15); font-weight: 600; border: 1px solid rgba(255,255,255,0.3); transition: 0.3s;">Editorial Board</a>
+    <a href="EDITORIAL-BOARD.html" style="color: white; text-decoration: none; padding: 10px 20px; border-radius: 50px; background: rgba(255,255,255,0.15); font-weight: 600; border: 1px solid rgba(255,255,255,0.3); transition: 0.3s;">Editorial Board</a>
     <a href="submission.html" style="color: white; text-decoration: none; padding: 10px 20px; border-radius: 50px; background: rgba(255,255,255,0.15); font-weight: 600; border: 1px solid rgba(255,255,255,0.3); transition: 0.3s;">Submission</a>
   </nav>
 </div>
@@ -46,22 +46,22 @@ title: Home | JPD
   <div style="padding: 20px; background: #fafafa; border-radius: 10px; border-left: 5px solid #064e3b;">
     <h3 style="margin: 0 0 10px 0; color: #333;">The Linkage Between Government Institutions and Traditional Leadership in Maroodi Jeex Region</h3>
     <p style="color: #666; margin-bottom: 15px;"><strong>Author:</strong> Mohamed Farah Tahar | <strong>Keywords:</strong> Governance, Elders, Somaliland</p>
-    <p style="line-height: 1.6; color: #444;">This research examines the unique blend of modern administrative systems and traditional structures in Somaliland, focusing on how elders contribute to social order and development...</p>
-    <a href="articles.html" style="display: inline-block; margin-top: 10px; color: #064e3b; font-weight: bold; text-decoration: none;">Read Full Abstract & Download PDF →</a>
+    <p style="line-height: 1.6; color: #444;">This research examines the unique blend of modern administrative systems and traditional structures in Somaliland...</p>
+    <a href="mohamed-tahar.html" style="display: inline-block; margin-top: 10px; color: #064e3b; font-weight: bold; text-decoration: none;">Read Full Article →</a>
   </div>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 40px;">
   <div style="background: #fff8e1; padding: 25px; border-radius: 15px; border: 1px solid #ffe082;">
     <h4 style="margin-top: 0; color: #856404;">📢 Call for Manuscripts</h4>
-    <p style="font-size: 0.95em; color: #856404;">Submit your original research for our upcoming 2026 editions. We cover Peace-building, Governance, and Development.</p>
+    <p style="font-size: 0.95em; color: #856404;">Submit your original research for our upcoming 2026 editions.</p>
     <a href="submission.html" style="color: #856404; font-weight: bold; text-decoration: underline;">Submit your paper today</a>
   </div>
   
   <div style="background: #e3f2fd; padding: 25px; border-radius: 15px; border: 1px solid #bbdefb;">
     <h4 style="margin-top: 0; color: #0d47a1;">👥 Editorial Board</h4>
-    <p style="font-size: 0.95em; color: #0d47a1;">Our board consists of distinguished scholars and practitioners dedicated to academic excellence and regional stability.</p>
-    <a href="board.html" style="color: #0d47a1; font-weight: bold; text-decoration: underline;">Meet the Board</a>
+    <p style="font-size: 0.95em; color: #0d47a1;">Meet our distinguished scholars and practitioners.</p>
+    <a href="EDITORIAL-BOARD.html" style="color: #0d47a1; font-weight: bold; text-decoration: underline;">Meet the Board</a>
   </div>
 </div>
 
