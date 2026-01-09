@@ -1,83 +1,100 @@
 ---
 layout: default
-title: Home | The Journal of Peace and Development
+title: Home | JPD Journal
 ---
 
 <style>
-    .journal-header { text-align: center; border-bottom: 3px double #064e3b; padding-bottom: 20px; margin-bottom: 30px; }
-    .journal-title { color: #064e3b; font-size: 2.5em; font-family: 'Times New Roman', serif; margin-bottom: 5px; }
-    .journal-meta { font-size: 0.9em; color: #666; font-style: italic; }
-    .nav-bar { background: #064e3b; padding: 10px; text-align: center; margin-bottom: 30px; border-radius: 5px; }
-    .nav-bar a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; font-size: 0.9em; }
-    .nav-bar a:hover { text-decoration: underline; }
-    .section-title { background: #f4f4f4; padding: 10px; border-left: 5px solid #064e3b; font-weight: bold; margin-bottom: 20px; }
-    .article-box { margin-bottom: 30px; padding: 15px; border-bottom: 1px solid #eee; }
-    .article-title { font-size: 1.3em; color: #1a5f7a; text-decoration: none; font-weight: bold; display: block; margin-bottom: 5px; }
-    .article-title:hover { color: #064e3b; }
-    .author-name { font-weight: bold; color: #333; margin-bottom: 10px; display: block; }
-    .btn-group { margin-top: 10px; }
-    .btn-jpd { padding: 5px 15px; border: 1px solid #064e3b; border-radius: 3px; text-decoration: none; font-size: 0.85em; margin-right: 10px; color: #064e3b; transition: 0.3s; }
-    .btn-jpd:hover { background: #064e3b; color: white; }
-    .sidebar-box { background: #f9f9f9; padding: 15px; border: 1px solid #ddd; border-radius: 5px; }
+    body { background-color: #f8f9fa; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+    .top-bar { background: #004a99; color: white; padding: 5px 20px; font-size: 0.8em; text-align: right; }
+    .header-area { background: white; padding: 25px; border-bottom: 1px solid #ddd; display: flex; align-items: center; justify-content: space-between; }
+    .journal-title { color: #004a99; font-size: 2.2em; font-weight: bold; margin: 0; }
+    .nav-bar { background: #fff; border-bottom: 1px solid #ddd; padding: 10px 20px; position: sticky; top: 0; z-index: 1000; }
+    .nav-bar a { color: #333; margin-right: 20px; text-decoration: none; font-weight: 500; font-size: 0.9em; }
+    .nav-bar a:hover { color: #004a99; }
+    .main-container { display: flex; max-width: 1200px; margin: 20px auto; gap: 30px; padding: 0 15px; }
+    .content-area { flex: 3; background: white; padding: 25px; border: 1px solid #ddd; }
+    .sidebar { flex: 1; background: #fff; }
+    .sidebar-box { border: 1px solid #ddd; padding: 15px; margin-bottom: 20px; }
+    .sidebar-header { border-bottom: 2px solid #004a99; color: #004a99; font-weight: bold; margin-bottom: 10px; padding-bottom: 5px; }
+    .submit-btn { display: block; background: #c00; color: white; text-align: center; padding: 12px; text-decoration: none; font-weight: bold; border-radius: 4px; margin-bottom: 20px; }
+    .article-card { border-bottom: 1px solid #eee; padding: 15px 0; }
+    .article-card:last-child { border-bottom: none; }
+    .article-link { color: #004a99; text-decoration: none; font-size: 1.1em; font-weight: 600; display: block; }
+    .article-link:hover { text-decoration: underline; }
+    .pdf-btn { display: inline-block; background: #004a99; color: white; padding: 4px 12px; font-size: 0.8em; text-decoration: none; border-radius: 3px; margin-top: 10px; }
+    .announcement-box { background: #fff3cd; border: 1px solid #ffeeba; padding: 10px; margin-bottom: 20px; font-size: 0.9em; }
 </style>
 
-<div class="journal-header">
+<div class="header-area">
     <h1 class="journal-title">The Journal of Peace and Development (JPD)</h1>
-    <p class="journal-meta">Abbreviation: <b>J. Peace Dev.</b> | Language: <b>English</b> | ISSN: <b>Pending</b> | Start Year: <b>2026</b></p>
+    <div style="text-align: right; font-size: 0.8em; color: #666;">
+        ISSN (E): Pending | ISSN (P): Pending <br>
+        Frequency: Bi-annual
+    </div>
 </div>
 
 <div class="nav-bar">
-    <a href="index.html">HOME</a>
-    <a href="ABOUT.html">ABOUT JPD</a>
-    <a href="EDITORS.html">EDITORS</a>
-    <a href="INSTRUCTIONS.html">INSTRUCTIONS</a>
-    <a href="ARCHIVES.html">ARCHIVES</a>
+    <a href="index.html">Home</a>
+    <a href="SUBMISSIONS.html">Submission</a>
+    <a href="EDITORS.html">Editorial Team</a>
+    <a href="ABOUT.html">About the Journal</a>
+    <a href="ARCHIVES.html">Archives</a>
+    <a href="CONTACT.html">Contact Us</a>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <div style="flex: 2; min-width: 300px;">
-        <div class="section-title">CURRENT ISSUE: Vol 1, No. 1 (2026)</div>
-
-        <div class="article-box">
-            <a href="impact-of-tribalism-somalia.html" class="article-title">1. The Impact of Tribalism on the Role of Intellectuals in Somalia: A Public Administration Perspective</a>
-            <span class="author-name">Mohamed Farah Tahar</span>
-            <p style="font-size: 0.95em; color: #555;">January 2026 | Article Number: JPD2026-002</p>
-            <p style="text-align: justify; font-size: 0.9em; color: #444;">This article examines how entrenched clan-based politics shape the role, autonomy, and institutional effectiveness of intellectuals in Somalia...</p>
-            <div class="btn-group">
-                <a href="impact-of-tribalism-somalia.html" class="btn-jpd">[Abstract]</a>
-                <a href="impact-of-tribalism-somalia.pdf" class="btn-jpd">[Full Text - PDF]</a>
-            </div>
+<div class="main-container">
+    <div class="content-area">
+        <div class="announcement-box">
+            <strong>Announcements:</strong> Call for Papers - Volume 1, Issue 1 (2026) is now open!
         </div>
 
-        <div class="article-box">
-            <a href="mohamed-tahar.html" class="article-title">2. The Linkage Between Government Institutions and Traditional Leadership in Maroodi Jeex Region</a>
-            <span class="author-name">Mohamed Farah Tahar</span>
-            <p style="font-size: 0.95em; color: #555;">January 2026 | Article Number: JPD2026-001</p>
-            <p style="text-align: justify; font-size: 0.9em; color: #444;">This study explores the integration of modern state governance and traditional leadership systems in Somaliland...</p>
-            <div class="btn-group">
-                <a href="mohamed-tahar.html" class="btn-jpd">[Abstract]</a>
-                <a href="mohamed-tahar.pdf" class="btn-jpd">[Full Text - PDF]</a>
-            </div>
+        <h3 style="border-bottom: 2px solid #eee; padding-bottom: 10px; color: #333;">Current Issue</h3>
+        <p style="color: #666; font-size: 0.9em;">Vol. 1 No. 01 (2026): Published: 2026-01-09</p>
+
+        <div class="article-card">
+            <a href="impact-of-tribalism-somalia.html" class="article-link">The Impact of Tribalism on the Role of Intellectuals in Somalia: A Public Administration Perspective</a>
+            <p style="margin: 5px 0; font-size: 0.9em;"><strong>Mohamed Farah Tahar</strong></p>
+            <p style="font-size: 0.85em; color: #555;">1-25</p>
+            <a href="impact-of-tribalism-somalia.pdf" class="pdf-btn">PDF</a>
+        </div>
+
+        <div class="article-card">
+            <a href="mohamed-tahar.html" class="article-link">The Linkage Between Government Institutions and Traditional Leadership in Maroodi Jeex Region</a>
+            <p style="margin: 5px 0; font-size: 0.9em;"><strong>Mohamed Farah Tahar</strong></p>
+            <p style="font-size: 0.85em; color: #555;">26-50</p>
+            <a href="mohamed-tahar.pdf" class="pdf-btn">PDF</a>
+        </div>
+
+        <div style="margin-top: 30px;">
+            <a href="ARCHIVES.html" style="color: #004a99; font-weight: bold; text-decoration: none;">View All Issues ></a>
         </div>
     </div>
 
-    <div style="flex: 1; min-width: 250px;">
+    <div class="sidebar">
+        <a href="SUBMISSIONS.html" class="submit-btn">Make a Submission</a>
+        
         <div class="sidebar-box">
-            <h4 style="margin-top:0; color:#064e3b;">Resources</h4>
-            <ul style="list-style: none; padding: 0; font-size: 0.9em; line-height: 2;">
-                <li>• <a href="ETHICS.html">Publication Ethics</a></li>
-                <li>• <a href="REVIEW.html">Peer Review</a></li>
-                <li>• <a href="POLICIES.html">Editorial Policies</a></li>
-                <li>• <a href="SUBMISSIONS.html">Submitting Manuscript</a></li>
-                <li>• <a href="CONTACT.html">Contact Us</a></li>
+            <div class="sidebar-header">Information</div>
+            <ul style="list-style: none; padding: 0; font-size: 0.9em;">
+                <li><a href="#" style="color: #004a99; text-decoration: none;">For Readers</a></li>
+                <li><a href="#" style="color: #004a99; text-decoration: none;">For Authors</a></li>
+                <li><a href="#" style="color: #004a99; text-decoration: none;">For Librarians</a></li>
             </ul>
-            <hr>
-            <a href="SUBMISSIONS.html" style="display: block; background: #d9534f; color: white; text-align: center; padding: 10px; text-decoration: none; font-weight: bold; border-radius: 3px;">SUBMIT MANUSCRIPT</a>
-            <p style="font-size: 0.8em; margin-top: 10px; text-align: center;">Interested in reviewing? <a href="CONTACT.html">Join our team</a></p>
+        </div>
+
+        <div class="sidebar-box">
+            <div class="sidebar-header">Keywords</div>
+            <div style="display: flex; flex-wrap: wrap; gap: 5px; font-size: 0.8em;">
+                <span style="background: #eee; padding: 2px 5px;">Somalia</span>
+                <span style="background: #eee; padding: 2px 5px;">Governance</span>
+                <span style="background: #eee; padding: 2px 5px;">Peace</span>
+                <span style="background: #eee; padding: 2px 5px;">Diplomacy</span>
+            </div>
         </div>
     </div>
 </div>
 
-<div style="text-align: center; margin-top: 50px; padding: 20px; border-top: 1px solid #eee; font-size: 0.8em; color: #777;">
-    © 2026 The Journal of Peace and Development. All rights reserved.
+<div style="text-align: center; padding: 30px; background: #333; color: white; margin-top: 50px; font-size: 0.8em;">
+    <p>The Journal of Peace and Development (JPD) © 2026</p>
+    <p>Developed by Open Journal Systems (OJS) Style for GitHub</p>
 </div>
