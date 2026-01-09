@@ -6,7 +6,6 @@ title: Home | JPD Journal
 <style>
     body { background-color: #f0f2f5; font-family: 'Segoe UI', Arial, sans-serif; margin: 0; }
     
-    /* Header Professional ah */
     .brand-header {
         background: linear-gradient(135deg, #003366 0%, #0055a4 100%);
         color: white;
@@ -27,10 +26,10 @@ title: Home | JPD Journal
     
     .section-title { color: #003366; border-bottom: 2px solid #ffcc00; padding-bottom: 10px; margin-bottom: 20px; text-transform: uppercase; font-size: 1.3em; }
     
-    /* Articles Style */
     .article-card { border-left: 4px solid #0055a4; padding: 15px 20px; background: #f9fbff; margin-bottom: 15px; border-radius: 0 4px 4px 0; }
     .article-link { color: #003366; text-decoration: none; font-size: 1.2em; font-weight: bold; }
-    .pdf-btn { display: inline-block; background: #c00; color: white; padding: 5px 15px; font-size: 0.8em; text-decoration: none; border-radius: 4px; margin-top: 10px; }
+    .pdf-btn { display: inline-block; background: #c00; color: white; padding: 8px 18px; font-size: 0.85em; text-decoration: none; border-radius: 4px; margin-top: 10px; font-weight: bold; }
+    .pdf-btn:hover { background: #a00; }
 
     .sidebar-box { background: white; border-top: 4px solid #003366; padding: 20px; margin-bottom: 25px; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
     .submit-btn { display: block; background: #ffcc00; color: #003366; text-align: center; padding: 15px; text-decoration: none; font-weight: bold; border-radius: 5px; margin-bottom: 20px; }
@@ -54,20 +53,22 @@ title: Home | JPD Journal
         
         <section id="about" class="section-card">
             <h2 class="section-title">About the Journal</h2>
-            <p>The Journal of Peace and Development (JPD) is a multidisciplinary, peer-reviewed journal based in Hargeisa, Somaliland. We are dedicated to publishing high-quality research that explores the intersection of peace-building, governance, and socio-economic development in the Horn of Africa and beyond.</p>
+            <p>The Journal of Peace and Development (JPD) is a multidisciplinary, peer-reviewed journal based in Hargeisa, Somaliland. We are dedicated to publishing high-quality research that explores the intersection of peace-building, governance, and socio-economic development.</p>
         </section>
 
         <section id="articles" class="section-card">
             <h2 class="section-title">Current Issue: Vol 1, No 1 (2026)</h2>
+            
             <div class="article-card">
                 <a href="#" class="article-link">The Impact of Tribalism on the Role of Intellectuals in Somalia</a>
                 <p style="margin: 5px 0;"><strong>Mohamed Farah Tahar</strong></p>
                 <a href="impact-of-tribalism-somalia.pdf" class="pdf-btn">Download PDF</a>
             </div>
+
             <div class="article-card">
-                <a href="#" class="article-link">Government Institutions and Traditional Leadership in Maroodi Jeex</a>
+                <a href="#" class="article-link">Government Institutions and Traditional Leadership in Maroodi Jeex Region</a>
                 <p style="margin: 5px 0;"><strong>Mohamed Farah Tahar</strong></p>
-                <a href="mohamed-tahar.pdf" class="pdf-btn">Download PDF</a>
+                <a href="government-traditional.pdf.pdf" class="pdf-btn">Download PDF</a>
             </div>
         </section>
 
@@ -75,13 +76,12 @@ title: Home | JPD Journal
             <h2 class="section-title">Editorial Team</h2>
             <p><strong>Editor-in-Chief:</strong> Mohamed Farah Tahar</p>
             <p><strong>Expertise:</strong> Public Administration, Governance & Peace Studies</p>
-            <p><em>The JPD editorial board is currently expanding to include international researchers and scholars.</em></p>
         </section>
 
         <section id="contact" class="section-card">
             <h2 class="section-title">Contact Information</h2>
             <p>📍 <strong>Location:</strong> Hargeisa, Somaliland</p>
-            <p>📧 <strong>Email:</strong> <a href="mailto:journalmft@gmail.com">journalmft@gmail.com</a></p>
+            <p>📧 <strong>Email:</strong> journalmft@gmail.com</p>
             <p>📞 <strong>Phone:</strong> +252 63 7902057</p>
         </section>
 
@@ -96,13 +96,7 @@ title: Home | JPD Journal
                 <li>Conflict Resolution</li>
                 <li>Public Policy</li>
                 <li>Traditional Governance</li>
-                <li>Social Development</li>
             </ul>
-        </div>
-
-        <div class="sidebar-box">
-            <h3 style="color:#003366; font-size: 1em; margin-top:0;">Journal Ethics</h3>
-            <p style="font-size: 0.85em; color: #555;">JPD follows strict peer-review guidelines to ensure the highest academic standards.</p>
         </div>
     </aside>
 </div>
