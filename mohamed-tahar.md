@@ -1,64 +1,51 @@
 ---
 layout: default
-title: Mohamed Farah Tahar | Editor-in-Chief
+title: Government Institutions & Traditional Leadership | JPD
+citation_title: "The Linkage Between Government Institutions and Traditional Leadership in Maroodi Jeex Region"
+citation_author: "Mohamed Farah Tahar"
+citation_publication_date: "2026/01"
+citation_journal_title: "The Journal of Peace and Development"
+citation_volume: "1"
+citation_issue: "1"
+citation_pdf_url: "https://journalmft-ux.github.io/The-Journal-of-Peace-and-Developmen/mohamed-tahar.pdf"
 ---
 
-<nav style="background: #064e3b; padding: 15px; text-align: center;">
-  <a href="index.html" style="color: white; text-decoration: none; margin: 0 10px;">Home</a>
-  <a href="board.html" style="color: white; text-decoration: none; margin: 0 10px;">Editorial Board</a>
-</nav>
+<div style="max-width: 850px; margin: 0 auto; background: #fff; padding: 40px; border: 1px solid #eee; box-shadow: 0 4px 15px rgba(0,0,0,0.05); font-family: 'Times New Roman', serif;">
 
-<div style="max-width: 900px; margin: 40px auto; padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <p style="color: #159957; font-weight: bold; margin-bottom: 5px;">Original Research Article</p>
+  <h1 style="color: #064e3b; font-size: 2.2em; line-height: 1.2; margin-top: 0;">The Linkage Between Government Institutions and Traditional Leadership in Maroodi Jeex Region</h1>
   
-  <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start;">
-    
-    <div style="flex: 1; min-width: 280px; text-align: center; background: #f8fafc; padding: 30px; border-radius: 20px; border: 1px solid #e2e8f0;">
-      <img src="mohamed.jpg" alt="Mohamed Farah Tahar" style="width: 200px; height: 200px; border-radius: 20px; object-fit: cover; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
-      <h2 style="color: #064e3b; margin-top: 20px;">Mohamed Farah Tahar</h2>
-      <p style="font-weight: bold; color: #159957;">Editor-in-Chief & Researcher</p>
-      <hr style="margin: 20px 0; border: 0; border-top: 1px solid #cbd5e1;">
-      <p style="font-size: 0.9em; color: #64748b;">📧 journalmft@gmail.com</p>
-      <p style="font-size: 0.9em; color: #64748b;">📍 Hargeisa, Somaliland</p>
-    </div>
+  <p style="margin: 20px 0; border-top: 1px solid #eee; border-bottom: 1px solid #eee; padding: 10px 0;">
+    <strong>Author:</strong> Mohamed Farah Tahar <br>
+    <strong>Affiliation:</strong> Independent Researcher <br>
+    <strong>Date:</strong> January 2026 | <strong>Article ID:</strong> JPD-2026-002
+  </p>
 
-    <div style="flex: 2; min-width: 300px;">
-      <h3 style="color: #064e3b; border-bottom: 2px solid #fbbf24; padding-bottom: 10px;">Biography</h3>
-      <p style="line-height: 1.8; color: #334155;">
-        Mohamed Farah Tahar is a prominent researcher and the founding Editor-in-Chief of <strong>The Journal of Peace and Development (JPD)</strong>. His work focuses on the intersection of modern governance and traditional socio-political structures in the Horn of Africa.
-      </p>
-
-      <h3 style="color: #064e3b; border-bottom: 2px solid #fbbf24; padding-bottom: 10px; margin-top: 30px;">Key Research</h3>
-      <div style="background: #f0fdf4; padding: 20px; border-radius: 10px; border-left: 5px solid #159957;">
-        <h4 style="margin: 0; color: #065f46;">"The Linkage Between Government Institutions and Traditional Leadership"</h4>
-        <p style="font-size: 0.9em; color: #374151; margin-top: 10px;">
-          This study explores how the traditional elders system in the Maroodi Jeex region integrates with modern Somaliland state-building to maintain peace and order.
-        </p>
-      </div>
-
-      <h3 style="color: #064e3b; border-bottom: 2px solid #fbbf24; padding-bottom: 10px; margin-top: 30px;">Academic Interests</h3>
-      <ul style="line-height: 2; color: #334155;">
-        <li>Institutional Development in Post-Conflict Societies</li>
-        <li>Traditional Leadership & Conflict Resolution</li>
-        <li>Public Policy in Somaliland</li>
-        <li>Regional Security & Governance</li>
-      </ul>
-    </div>
-
+  <div style="background: #f8f9fa; padding: 20px; border-left: 5px solid #064e3b; margin-bottom: 30px;">
+    <h3 style="margin-top: 0;">Abstract</h3>
+    <p style="line-height: 1.6; text-align: justify;">
+      Cilmi-baadhistan waxay baadhaysaa xidhiidhka ka dhexeeya hay'adaha dawladda iyo hoggaanka dhaqanka ee gobolka Maroodi Jeex. Waxay xoogga saaraysaa sida wada-shaqayntoodu u saamayso maamul wanaagga iyo nabad-gelyada degaanka.
+    </p>
+    <strong>Keywords:</strong> Traditional Leadership; Local Government; Maroodi Jeex; Governance; Somaliland.
   </div>
-</div>
-<div style="flex: 2; min-width: 300px;">
-  <h3 style="color: #064e3b; border-bottom: 2px solid #fbbf24; padding-bottom: 10px;">Biography</h3>
-  <p>...</p>
 
-  <h3 style="color: #064e3b; border-bottom: 2px solid #fbbf24; padding-bottom: 10px; margin-top: 30px;">Key Research</h3>
-  <div style="background: #f0fdf4; padding: 25px; border-radius: 10px; border-left: 5px solid #159957;">
-    <h4 style="margin: 0; color: #065f46;">"The Linkage Between Government Institutions and Traditional Leadership"</h4>
-    <p>This study explores how the traditional elders system...</p>
+  <div style="line-height: 1.8; text-align: justify; font-size: 1.1em; color: #333;">
+    <h3>1. Introduction</h3>
+    <p>
+      Gobolka Maroodi Jeex wuxuu ka mid yahay meelaha ay ku wada nool yihiin nidaamka dawliga ah iyo kan dhaqanka. Hordhacan wuxuu sharraxayaa muhiimadda ay leedahay in la fahmo xidhiidhka ka dhexeeya labadan dhinac...
+    </p>
 
-    <div style="margin-top: 20px;">
-      <a href="mohamed-tahar-research.pdf" target="_blank" style="display: inline-block; background: #064e3b; color: white; padding: 12px 25px; text-decoration: none; border-radius: 8px; font-weight: bold;">
-        📄 Download Full Research (PDF)
-      </a>
-    </div>
+    <h3>2. Methodology</h3>
+    <p>
+      Daraasaddan waxaa loo isticmaalay habka tayada leh (Qualitative research), iyadoo la waraystay odayaal dhaqameed iyo madax ka tirsan dawladda hoose...
+    </p>
   </div>
+
+  <hr style="margin: 40px 0;">
+  <h3>References</h3>
+  <ul style="font-size: 0.9em; line-height: 1.6;">
+    <li>Guleid, A. (2019). Traditional systems and modern statehood in the Horn of Africa.</li>
+    <li>Mohamed, F. T. (2026). Governance and Leadership in Maroodi Jeex.</li>
+  </ul>
+
 </div>
